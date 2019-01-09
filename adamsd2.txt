@@ -1,1 +1,2 @@
-Git username: Hoboabobo
+Name: Daniel Adams
+Git Username: Hoboabobo
